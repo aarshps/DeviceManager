@@ -114,7 +114,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Controllers\BaseApiController.cs" />
     <Compile Include="Controllers\DeviceController.cs" />
     <Compile Include="Filters\AllowCorsAttribute.cs" />
     <Compile Include="Global.asax.cs">
